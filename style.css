@@ -246,7 +246,7 @@ p {
     .profile-card .profile-bio {
         width: auto;
         height: auto;
-        padding: 0;
+        padding: 15px 20px 20px 20px;
         display: block;
         float: none; 
     }
